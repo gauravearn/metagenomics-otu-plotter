@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # -*- coding:  utf-8 -*-
 # Author: Gaurav Sablok
-# date: 2023-08-09
+# date: 2023-09-04
 # MIT License
 echo "i am your shell plotter that uses ruby for the plotting for plotting the metagenomics abundances"
 echo "gem install youplot"
