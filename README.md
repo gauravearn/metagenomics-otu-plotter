@@ -1,5 +1,5 @@
-# shell_plotter
-A shell plotting function that extends a ruby framework and plots the metagenomics abundances right in your shell for checking the abundance distribution. It takes the OTU metagenomics abundances and then plot the bar and the histogram right in your shell quickly to see the distribution of the abundances. just run it and it will ask for the file and plots to make. 
+# metagenomics-otu-plotter
+A shell plotting function that extends a ruby framework and plots the metagenomics abundances right in your shell for checking the abundance distribution. It takes the OTU metagenomics abundances and then plot the bar and the histogram to see the distribution of the abundances. just run it and it will ask for the file and plots to make. 
 
 ```
 i am your shell plotter that uses ruby for the plotting for plotting the metagenomics abundances
@@ -11,9 +11,9 @@ enter the number of the bins:
 prepairing the file for the plotting
        bar plot analysis of the metagenomics samples OTUs
 ```
-
 Gaurav Sablok \
-ORCID: https://orcid.org/0000-0002-4157-9405 \
-WOS: https://www.webofscience.com/wos/author/record/C-5940-2014 \
-RubyGems Published: https://rubygems.org/profiles/sablokgaurav \
-Python Packages Published : https://pypi.org/user/sablokgaurav/
+Academic Staff Member \
+Bioinformatics \
+Institute for Biochemistry and Biology \
+University of Potsdam \
+Potsdam,Germany 
