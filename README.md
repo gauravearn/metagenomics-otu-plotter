@@ -11,7 +11,7 @@ enter the number of the bins:
 prepairing the file for the plotting
        bar plot analysis of the metagenomics samples OTUs
 ```
-Gaurav Sablok \
+Gaurav \
 Academic Staff Member \
 Bioinformatics \
 Institute for Biochemistry and Biology \
